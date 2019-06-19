@@ -9,8 +9,8 @@
 #  *
 #  * @version		1.0
 #  *
-#  * @see			https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=00000
-#  * @see			https://underr.space/notes/projects/project-015.html
+#  * @see			https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=37121
+#  * @see			https://underr.space/notes/projects/project-017.html
 #  * @see			https://github.com/underr-ua/ocmod3-order-plus
 
 

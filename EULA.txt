@@ -1,11 +1,11 @@
-End-User License Agreement (EULA) of Admin Filter+
+End-User License Agreement (EULA) of Order+
 
-Last updated: 2019.01.31
+Last updated: 2019.06.19
 
 This End-User License Agreement ("EULA") is a legal agreement between the end
 user (the "Licensee" or "you") and Andrii Burkatskyi (the "Licensor")
 
-This EULA agreement governs your acquisition and use of our Admin Filter+
+This EULA agreement governs your acquisition and use of our Order+
 software (the "Software") directly from the Licensor or indirectly through a
 Andrii Burkatskyi authorized reseller or distributor (a "Reseller").
 
@@ -36,13 +36,13 @@ unless other terms accompany those items on delivery. If so, those terms apply.
 
 Definitions
 
-Admin Filter+ (the "Software") means the Admin Filter+ software and
+Order+ (the "Software") means the Order+ software and
 includes:
 
 1. all its components developed and licensed by the Licensor;
 2. any revisions, updates and/or upgrades thereto;
 3. anything in any form whatsoever intended to be used with or in
-   conjunction with the Admin Filter+;
+   conjunction with the Order+;
 4. any associated media and documentation.
 
 
