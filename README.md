@@ -8,6 +8,7 @@ Order+ is an extension for CMS Opencart 3.x Admin Panel. It extends displayed in
 * Product images in order info, invoices and shipping lists.
 * Configureable image size.
 * Detailed info in order list.
+* Multilingual (settings only in ER/UA/RU).
 * Does not change original files - OCMOD modification.
 
 ## Change log
