@@ -4,7 +4,7 @@
 #  * It extends displayed information in order list and e-mails, also adds product images in invoices, shopping lists and e-mails.
 #  *
 #  * @author		Andrii Burkatskyi aka underr underr.ua@gmail.com
-#  * @copyright	Copyright (c) 2019 Andrii Burkatskyi
+#  * @copyright	    Copyright (c) 2019 Andrii Burkatskyi
 #  * @license		https://raw.githubusercontent.com/underr-ua/ocmod3-order-plus/master/EULA.txt End-User License Agreement
 #  *
 #  * @version		1.0
