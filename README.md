@@ -48,7 +48,7 @@ Order+ is an extension for CMS Opencart 3.x Admin Panel. It extends displayed in
 
 ## Links
 * [Opencart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=37121)
-* [underr.space](https://underr.space/notes/projects/project-017) - Descriptions in Russian
+* [underr.space](https://underr.space/notes/projects/project-017) - Description in Russian
 
 ## License
 [End-User License Agreement](https://raw.githubusercontent.com/underr-ua/ocmod3-order-plus/master/EULA.txt)
