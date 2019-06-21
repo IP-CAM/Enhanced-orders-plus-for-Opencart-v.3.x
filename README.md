@@ -7,7 +7,7 @@ Order+ is an extension for CMS Opencart 3.x Admin Panel. It extends displayed in
 * Detailed order information and product images in e-mails.
 * Product images in order info, invoices and shipping lists.
 * Configureable image size.
-* Detailed info in order list.
+* Detailed customer info in order list.
 * Multilingual (settings only in ER/UA/RU).
 * Does not change original files - OCMOD modification.
 
@@ -37,14 +37,18 @@ Order+ is an extension for CMS Opencart 3.x Admin Panel. It extends displayed in
 ## Live demo [Main]:
   * [Admin Demo - Settings](http://ocmod.freevar.com/oc3020/a/admin/index.php?route=extension/module/order_plus)
   * [Admin Demo - Order list](http://ocmod.freevar.com/oc3020/a/admin/index.php?route=sale/order)
+  * [Admin Demo - Order invoice](http://ocmod.freevar.com/oc3020/a/admin/index.php?route=sale/order/invoice&order_id=1)
+  * [Admin Demo - Order shipping list](http://ocmod.freevar.com/oc3020/a/admin/index.php?route=sale/order/shipping&order_id=1)
 
 ## Live demo [Alternative]:
   * [Admin Demo - Settings](https://oc3020.underr.thats.im/a/admin/index.php?route=extension/module/order_plus)
-  * [Admin Demo - Product list](https://oc3020.underr.thats.im/a/admin/index.php?route=sale/order)
+  * [Admin Demo - Order list](https://oc3020.underr.thats.im/a/admin/index.php?route=sale/order)
+  * [Admin Demo - Order invoice](https://oc3020.underr.thats.im/a/admin/index.php?route=sale/order/invoice&order_id=1)
+  * [Admin Demo - Order shipping list](https://oc3020.underr.thats.im/a/admin/index.php?route=sale/order/shipping&order_id=1)
 
 ## Links
 * [Opencart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=37121)
-* [underr.space](https://underr.space/tag:opencart) - Descriptions in Russian for all of my OpenCart extensions.
+* [underr.space](https://underr.space/notes/projects/project-017) - Descriptions in Russian
 
 ## License
 [End-User License Agreement](https://raw.githubusercontent.com/underr-ua/ocmod3-order-plus/master/EULA.txt)
