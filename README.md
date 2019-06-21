@@ -35,16 +35,16 @@ Order+ is an extension for CMS Opencart 3.x Admin Panel. It extends displayed in
 * Admin > Dashboard > [Developer Settings] > [Refresh].
 
 ## Live demo [Main]:
-  * [Admin Demo - Settings](http://ocmod.freevar.com/oc3020/a/admin/index.php?route=extension/module/order_plus)
-  * [Admin Demo - Order list](http://ocmod.freevar.com/oc3020/a/admin/index.php?route=sale/order)
-  * [Admin Demo - Order invoice](http://ocmod.freevar.com/oc3020/a/admin/index.php?route=sale/order/invoice&order_id=1)
-  * [Admin Demo - Order shipping list](http://ocmod.freevar.com/oc3020/a/admin/index.php?route=sale/order/shipping&order_id=1)
+* [Admin - Settings](http://ocmod.freevar.com/oc3020/a/admin/index.php?route=extension/module/order_plus)
+* [Admin - Order list](http://ocmod.freevar.com/oc3020/a/admin/index.php?route=sale/order)
+* [Admin - Order invoice](http://ocmod.freevar.com/oc3020/a/admin/index.php?route=sale/order/invoice&order_id=1)
+* [Admin - Order shipping list](http://ocmod.freevar.com/oc3020/a/admin/index.php?route=sale/order/shipping&order_id=1)
 
 ## Live demo [Alternative]:
-  * [Admin Demo - Settings](https://oc3020.underr.thats.im/a/admin/index.php?route=extension/module/order_plus)
-  * [Admin Demo - Order list](https://oc3020.underr.thats.im/a/admin/index.php?route=sale/order)
-  * [Admin Demo - Order invoice](https://oc3020.underr.thats.im/a/admin/index.php?route=sale/order/invoice&order_id=1)
-  * [Admin Demo - Order shipping list](https://oc3020.underr.thats.im/a/admin/index.php?route=sale/order/shipping&order_id=1)
+* [Admin - Settings](https://oc3020.underr.thats.im/a/admin/index.php?route=extension/module/order_plus)
+* [Admin - Order list](https://oc3020.underr.thats.im/a/admin/index.php?route=sale/order)
+* [Admin - Order invoice](https://oc3020.underr.thats.im/a/admin/index.php?route=sale/order/invoice&order_id=1)
+* [Admin - Order shipping list](https://oc3020.underr.thats.im/a/admin/index.php?route=sale/order/shipping&order_id=1)
 
 ## Links
 * [Opencart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=37121)
