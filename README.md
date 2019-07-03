@@ -18,8 +18,8 @@ Order+ is an extension for CMS Opencart 3.x Admin Panel. It extends displayed in
 ## How to install
 * To begin, make backup, really!
 * Open Admin Panel.
-* Admin > Extensions > Extensions > Installer > [Upload]: open the extension file.
-* Admin > Extensions > Extensions > Modifications > [Refresh].
+* Admin > Extensions > Installer > [Upload]: open the extension file.
+* Admin > Extensions > Modifications > [Refresh].
 * Admin > Dashboard > [Developer Settings] > [Refresh].
 
 ## How to configure
@@ -30,8 +30,8 @@ Order+ is an extension for CMS Opencart 3.x Admin Panel. It extends displayed in
 ## How to uninstall
 * Make backup.
 * Open Admin Panel.
-* Admin > Extensions > Extensions > Installer > Install History > find the extension file > [Uninstall].
-* Admin > Extensions > Extensions > Modifications > [Refresh].
+* Admin > Extensions > Installer > Install History > find the extension file > [Uninstall].
+* Admin > Extensions > Modifications > [Refresh].
 * Admin > Dashboard > [Developer Settings] > [Refresh].
 
 ## Live demo [Main]:
