@@ -11,7 +11,7 @@ The "Enhanced Order+" extension is for OpenCart CMS verisons 3.x. It allows to d
 * High security and compatibility level due to using OCMOD and Event System
 
 ## Live demo:
-* [Admin - Settings](http://ocmod.freevar.com/oc3020/a/admin/index.php?route=extension/module/order_plus)
+* [Admin - Settings](http://ocmod.freevar.com/oc3020/a/admin/index.php?route=extension/module/enhanced_orders)
 * [Admin - Order list](http://ocmod.freevar.com/oc3020/a/admin/index.php?route=sale/order)
 * [Admin - Order invoice](http://ocmod.freevar.com/oc3020/a/admin/index.php?route=sale/order/invoice&order_id=1)
 * [Admin - Order shipping list](http://ocmod.freevar.com/oc3020/a/admin/index.php?route=sale/order/shipping&order_id=1)
