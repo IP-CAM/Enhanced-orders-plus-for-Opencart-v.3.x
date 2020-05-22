@@ -1,4 +1,4 @@
-mod_name=enhanced-options-journal3-addon
+mod_name=enhanced-orders-journal3-addon
 bin_dir=bin
 img_dir=img
 src_dir=src
