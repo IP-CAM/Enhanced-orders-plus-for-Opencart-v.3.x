@@ -1,5 +1,9 @@
 # Change log
 
+## [2.0.1] - 2020-06-04:
+### Added
+- Separate image management in emails
+
 ## [2.0.0] - 2020-05-22:
 ### Changed
 - Renamed to Enchaced Order+
