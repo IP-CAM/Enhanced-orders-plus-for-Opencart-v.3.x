@@ -1,7 +1,7 @@
-# Enhanced Order+
+# Enhanced Orders+
 
 ## Description
-The "Enhanced Order+" extension is for OpenCart CMS verisons 3.x. It allows to display product images and detailed information in emails and order history both for store admin and customers.
+The "Enhanced Orders+" extension is for OpenCart CMS verisons 3.x. It allows to display product images and detailed information in emails and order history both for store admin and customers.
 
 ## Features
 * Extends order information and adds product images in e-mails
@@ -19,10 +19,10 @@ The "Enhanced Order+" extension is for OpenCart CMS verisons 3.x. It allows to d
 ## Links
 * [Opencart Marketplace](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=37121)
 * [Homepage](https://underr.space/en/notes/projects/project-0017.html)
-* [Github](https://git.io/Jf22v)
+* [Github](https://git.io/JJzUF)
 
 ## License
-[End-User License Agreement](https://git.io/Jf22U)
+[End-User License Agreement](https://git.io/JJzTv)
 
 ## Related modules and extensions
 * [Order Invoice - Images](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=35204)

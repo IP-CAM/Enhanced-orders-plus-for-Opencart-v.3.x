@@ -1,5 +1,9 @@
 # Change log
 
+## [2.0.2] - 2021-01-22:
+### Changed
+- Internal
+
 ## [2.0.1] - 2020-06-04:
 ### Added
 - Separate image management in emails
